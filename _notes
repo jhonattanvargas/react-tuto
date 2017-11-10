@@ -1,0 +1,5 @@
+#to change enviroment on windows
+$env:NODE_ENV="production"
+$env:BABEL_ENV="production"
+$env:NODE_ENV="development"
+$env:BABEL_ENV="development"
